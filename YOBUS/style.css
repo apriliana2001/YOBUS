@@ -1,0 +1,62 @@
+.banner {
+	background: url("banner.jpeg")
+		no-repeat center center;
+	background-size: cover;
+	padding-top: 20%;
+	padding-bottom: 20%;
+	color: #fff;
+}
+
+.lingkaran {
+	display: inline-block;
+	border-radius: 50%;
+	width: 150px;
+	margin: auto;
+	height: 150px;
+	color: #fff;
+	background-color: #00FF00;
+}
+
+.lingkaran1 {
+	display: inline-block;
+	border-radius: 50%;
+	width: 150px;
+	margin: auto;
+	height: 150px;
+	color: #fff;
+	background: linear-gradient(to bottom, #9400D3, #FF1493, #FF4500, #FFD700);
+}
+
+.lingkaran2 {
+	display: inline-block;
+	border-radius: 50%;
+	width: 150px;
+	margin: auto;
+	height: 150px;
+	color: #fff;
+	background-color: #32CD32;
+}
+
+.lingkaran i {
+	position: relative;
+	top: 30px;
+}
+
+.lingkaran1 i {
+	position: relative;
+	top: 30px;
+}
+
+.lingkaran2 i {
+	position: relative;
+	top: 30px;
+}
+
+.hubungi_kami {
+	background: url("https://wallpaperaccess.com/full/1867010.jpg")
+		no-repeat center center;
+	background-size: cover;
+	padding-top: 20%;
+	padding-bottom: 20%;
+	color: #fff;
+}
